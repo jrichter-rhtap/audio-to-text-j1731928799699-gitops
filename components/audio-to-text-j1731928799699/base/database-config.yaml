@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: audio-to-text-j1731928799699-database-config
+data:
+  VECTORDB_HOST: "audio-to-text-j1731928799699-database"
+  VECTORDB_PORT: ""
